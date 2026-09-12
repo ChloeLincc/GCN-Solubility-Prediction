@@ -1,0 +1,7 @@
+# 模型超参数配置
+embedding_size: 64
+batch_size: 64
+learning_rate: 0.0007
+num_epochs: 2000
+train_ratio: 0.8
+seed: 42
